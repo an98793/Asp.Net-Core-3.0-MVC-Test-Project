@@ -1,0 +1,16 @@
+C:\Users\an98793\Desktop\AjaxWeb\EFModels\bin\Debug\netcoreapp3.1\EFModels.deps.json
+C:\Users\an98793\Desktop\AjaxWeb\EFModels\bin\Debug\netcoreapp3.1\EFModels.dll
+C:\Users\an98793\Desktop\AjaxWeb\EFModels\obj\Debug\netcoreapp3.1\EFModels.csprojAssemblyReference.cache
+C:\Users\an98793\Desktop\AjaxWeb\EFModels\obj\Debug\netcoreapp3.1\EFModels.AssemblyInfoInputs.cache
+C:\Users\an98793\Desktop\AjaxWeb\EFModels\obj\Debug\netcoreapp3.1\EFModels.AssemblyInfo.cs
+C:\Users\an98793\Desktop\AjaxWeb\EFModels\bin\Debug\netcoreapp3.1\EFModels.pdb
+C:\Users\an98793\Desktop\AjaxWeb\EFModels\obj\Debug\netcoreapp3.1\EFModels.dll
+C:\Users\an98793\Desktop\AjaxWeb\EFModels\obj\Debug\netcoreapp3.1\EFModels.pdb
+C:\Users\an98793\Desktop\AjaxWeb - 複製\EFModels\bin\Debug\netcoreapp3.1\EFModels.deps.json
+C:\Users\an98793\Desktop\AjaxWeb - 複製\EFModels\bin\Debug\netcoreapp3.1\EFModels.dll
+C:\Users\an98793\Desktop\AjaxWeb - 複製\EFModels\bin\Debug\netcoreapp3.1\EFModels.pdb
+C:\Users\an98793\Desktop\AjaxWeb - 複製\EFModels\obj\Debug\netcoreapp3.1\EFModels.csprojAssemblyReference.cache
+C:\Users\an98793\Desktop\AjaxWeb - 複製\EFModels\obj\Debug\netcoreapp3.1\EFModels.AssemblyInfoInputs.cache
+C:\Users\an98793\Desktop\AjaxWeb - 複製\EFModels\obj\Debug\netcoreapp3.1\EFModels.AssemblyInfo.cs
+C:\Users\an98793\Desktop\AjaxWeb - 複製\EFModels\obj\Debug\netcoreapp3.1\EFModels.dll
+C:\Users\an98793\Desktop\AjaxWeb - 複製\EFModels\obj\Debug\netcoreapp3.1\EFModels.pdb
